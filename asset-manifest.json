@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sakshi-portfolio/static/css/main.f1bcc531.css",
-    "main.js": "/sakshi-portfolio/static/js/main.5cd0ba6e.js",
+    "main.js": "/sakshi-portfolio/static/js/main.a4e0a128.js",
     "static/media/profile.jpg": "/sakshi-portfolio/static/media/profile.20918135ec88914d2d4f.jpg",
     "static/media/resume.pdf": "/sakshi-portfolio/static/media/resume.5728734ae3388682882e.pdf",
     "index.html": "/sakshi-portfolio/index.html",
     "main.f1bcc531.css.map": "/sakshi-portfolio/static/css/main.f1bcc531.css.map",
-    "main.5cd0ba6e.js.map": "/sakshi-portfolio/static/js/main.5cd0ba6e.js.map"
+    "main.a4e0a128.js.map": "/sakshi-portfolio/static/js/main.a4e0a128.js.map"
   },
   "entrypoints": [
     "static/css/main.f1bcc531.css",
-    "static/js/main.5cd0ba6e.js"
+    "static/js/main.a4e0a128.js"
   ]
 }
